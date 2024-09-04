@@ -25,7 +25,7 @@ StockSavvy also includes a news fetching tool that scrapes the latest news artic
 - **Backend**: Node.js, Express.js
 - **Data**: yfinance (for stock data), web scraping (for news fetching)
 - **Machine Learning**: LSTM neural networks implemented in Python (Flask server)
-- **Deployment**: Docker, AWS/Heroku compatible
+
 
 ## 🛠 Development Process
 

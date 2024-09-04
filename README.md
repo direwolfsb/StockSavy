@@ -4,6 +4,10 @@
 
 # StockSavvy - A Web Application for Stock Analysis and Prediction
 
+<img width="600" alt="Home" src="https://github.com/user-attachments/assets/40e579ec-3995-4905-9654-93dfe0f42e0f">
+
+### Stock Price Predictions and Charts
+
 **StockSavvy** is a comprehensive web application designed to empower users with tools for sophisticated stock analysis and prediction. The platform leverages modern web technologies, advanced machine learning techniques, and financial data from **yfinance** to offer predictions of stock closing prices, along with fetching and displaying trending news related to specific stock companies. StockSavvy aims to provide users with insightful data, making it easier for them to make informed decisions in the stock market.
 
 ## Core Features
@@ -45,10 +49,8 @@ Looking to the future, StockSavvy has the potential to evolve into a more compre
 
 ## Screenshots
 
-### Home
-<img width="737" alt="Home" src="https://github.com/user-attachments/assets/40e579ec-3995-4905-9654-93dfe0f42e0f">
 
-### Stock Price Predictions and Charts
+
 <img width="737" alt="Pricechart" src="https://github.com/user-attachments/assets/ab5c4076-197b-4dfb-92af-f957f2945ed0">
 
 ### Graphs and Data Visualizations
